@@ -2,15 +2,10 @@
 
 namespace ToDo003
 {
-    class Exsersise
+
+    public class Program
     {
-        internal string putexs { get; set; }
-        internal string watchexs { get; set; }
-        internal bool statusexs { get; set; }
-    }
-    class Program
-    {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             
         }
